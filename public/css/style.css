@@ -1,0 +1,18 @@
+body{
+    color: #1613c1;
+    font-family:serif;
+    max-width: 1300px;
+    margin: 0 auto;
+    background-color: rgb(224,253,177);
+}
+footer{
+    color: #1275d1;
+    border-top: 50px solid #3333;
+    margin-top: 500px;
+    padding: 5px 0;
+}
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+    
+}
